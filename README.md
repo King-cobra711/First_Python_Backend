@@ -4,7 +4,7 @@
 
 This is my first attempt in creating A REST API in python using tornado as a web framework and asynchronous networking library.
 
-### Skills:
+## Skills:
 - Building the python http web server
 - Sending input parameters to pythin API
 - Building dynamic POST and GET JSON http APIs
