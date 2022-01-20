@@ -15,6 +15,7 @@ This is my first attempt in creating A REST API in python using tornado as a web
 - [Python](https://www.python.org/)
 - [tornado](https://www.tornadoweb.org/en/stable/)
 - [vscode](https://code.visualstudio.com/)
+- [Jupyter Notebook](https://jupyter.org/)
 
 
 ## Languages
